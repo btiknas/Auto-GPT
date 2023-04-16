@@ -3,7 +3,6 @@ autogpt/keys.py
 autogpt/*json
 autogpt/node_modules/
 autogpt/__pycache__/keys.cpython-310.pyc
-autogpt/auto_gpt_workspace/
 package-lock.json
 *.pyc
 auto_gpt_workspace/*
@@ -158,3 +157,10 @@ vicuna-*
 
 # mac
 .DS_Store
+
+
+# generated folders and files // not code relevant
+auto_gpt_workspace/
+autogpt/auto_gpt_workspace/
+
+AutoGpt.json
