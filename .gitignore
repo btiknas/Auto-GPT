@@ -162,5 +162,5 @@ vicuna-*
 # generated folders and files // not code relevant
 auto_gpt_workspace/
 autogpt/auto_gpt_workspace/
-
+auto-gpt.json
 AutoGpt.json
